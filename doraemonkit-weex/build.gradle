@@ -5,6 +5,8 @@ if (rootProject.ext.config["publishArchivesType"] == 2) {
     apply from: 'upload-dev.gradle'
 }
 
+
+
 android {
     compileSdkVersion rootProject.ext.android["compileSdkVersion"]
 

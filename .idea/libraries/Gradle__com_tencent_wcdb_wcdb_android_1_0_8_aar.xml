@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.tencent.wcdb:wcdb-android:1.0.8@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5771b5908493f25d5195cbf3324fac9/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5771b5908493f25d5195cbf3324fac9/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5771b5908493f25d5195cbf3324fac9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93c3a321273f9bb66a5255fd7e86ec80/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93c3a321273f9bb66a5255fd7e86ec80/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93c3a321273f9bb66a5255fd7e86ec80/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

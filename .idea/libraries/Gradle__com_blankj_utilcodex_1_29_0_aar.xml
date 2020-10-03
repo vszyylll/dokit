@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.blankj:utilcodex:1.29.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b47d5b7dca97eedbe62031534cbd42de/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09a79994a04eabee2c9dbe20386aaea1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b47d5b7dca97eedbe62031534cbd42de/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b47d5b7dca97eedbe62031534cbd42de/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b47d5b7dca97eedbe62031534cbd42de/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09a79994a04eabee2c9dbe20386aaea1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09a79994a04eabee2c9dbe20386aaea1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09a79994a04eabee2c9dbe20386aaea1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
