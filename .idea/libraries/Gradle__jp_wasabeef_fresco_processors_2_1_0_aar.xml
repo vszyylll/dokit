@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: jp.wasabeef:fresco-processors:2.1.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a5521afe07e7f5840ebf1b96eb2f50e/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a5521afe07e7f5840ebf1b96eb2f50e/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a5521afe07e7f5840ebf1b96eb2f50e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4844ecec7c4ee95180bb26319ca42a46/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4844ecec7c4ee95180bb26319ca42a46/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4844ecec7c4ee95180bb26319ca42a46/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
